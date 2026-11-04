@@ -1,0 +1,9 @@
+{title: Test Song (ChordPro)}
+{subtitle: Sample for Gig Assistant}
+{comment: Verse 1}
+[Am]Walking down the [G]road tonight
+[C]Nothing but the [F]stars in sight
+{soc}
+[F]Sing it [C]loud, sing it [G]strong
+[Am]All night [F]long
+{eoc}
